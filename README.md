@@ -1,0 +1,2 @@
+# Shopydyn
+autobuy using javascript
